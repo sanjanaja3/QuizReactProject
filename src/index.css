@@ -15,7 +15,7 @@ body {
 button {
   padding: 8px 12px;
   margin: 5px;
-  background: #6366f1;
+  background: #bb06ac;
   border: none;
   color:blue;
   border-radius: 5px;
@@ -38,6 +38,6 @@ button {
 .footer {
   text-align: center;
   padding: 10px;
-  background: #111827;
+  background: #da19b7;
   color: white;
 }
